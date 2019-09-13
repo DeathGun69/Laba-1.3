@@ -1,0 +1,11 @@
+C:\Users\Сергей\Documents\Учеба\ИрГУПС\Разработка защ ПС\laba\bin\Debug\netcoreapp2.2\laba.deps.json
+C:\Users\Сергей\Documents\Учеба\ИрГУПС\Разработка защ ПС\laba\bin\Debug\netcoreapp2.2\laba.runtimeconfig.json
+C:\Users\Сергей\Documents\Учеба\ИрГУПС\Разработка защ ПС\laba\bin\Debug\netcoreapp2.2\laba.runtimeconfig.dev.json
+C:\Users\Сергей\Documents\Учеба\ИрГУПС\Разработка защ ПС\laba\bin\Debug\netcoreapp2.2\laba.dll
+C:\Users\Сергей\Documents\Учеба\ИрГУПС\Разработка защ ПС\laba\bin\Debug\netcoreapp2.2\laba.pdb
+C:\Users\Сергей\Documents\Учеба\ИрГУПС\Разработка защ ПС\laba\obj\Debug\netcoreapp2.2\laba.csprojAssemblyReference.cache
+C:\Users\Сергей\Documents\Учеба\ИрГУПС\Разработка защ ПС\laba\obj\Debug\netcoreapp2.2\laba.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Documents\Учеба\ИрГУПС\Разработка защ ПС\laba\obj\Debug\netcoreapp2.2\laba.AssemblyInfoInputs.cache
+C:\Users\Сергей\Documents\Учеба\ИрГУПС\Разработка защ ПС\laba\obj\Debug\netcoreapp2.2\laba.AssemblyInfo.cs
+C:\Users\Сергей\Documents\Учеба\ИрГУПС\Разработка защ ПС\laba\obj\Debug\netcoreapp2.2\laba.dll
+C:\Users\Сергей\Documents\Учеба\ИрГУПС\Разработка защ ПС\laba\obj\Debug\netcoreapp2.2\laba.pdb
